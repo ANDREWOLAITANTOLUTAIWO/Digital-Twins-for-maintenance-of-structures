@@ -61,7 +61,7 @@ Predictive maintenance models are integral to the DT implementation. These model
 
 Heat transfer through a building envelope is dictated by coupled conductive, convective, and radiant heat exchange mechanisms:
 
-1. **Conduction:** Heat flow through opaque wall assemblies, roof slabs, and glazing, governed by material thermal transmittance and the thermal difference $\Delta T={T}_{LST}-{T}_{INDOOR}$.
+1. **Conduction:** Heat flow through opaque wall assemblies, roof slabs, and glazing, governed by material thermal transmittance and the thermal difference $$\Delta T={T}_{LST}-{T}_{INDOOR}$$.
 
 2. **Convection & Latent Heat Gain:** Heat exchange at exterior building surfaces driven by ambient air temperature (${T}_{SAT}$) and atmospheric relative humidity ($RH$). High ambient humidity increases atmospheric enthalpy, severely impairing evaporator heat exchange efficiency in HVAC cooling cycles.
 
